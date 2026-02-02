@@ -43,14 +43,6 @@ pkill -f "python3 server.py"
 pkill -f "test_logs.sh"
 ```
 
-## Interview Docs
-
-| Document | Purpose |
-|----------|---------|
-| `QUICK_BOOK.md` | 5-min review before interview |
-| `INTERVIEW_COMPLETE_GUIDE.md` | Full system design details |
-| `DESIGN_DEEP_DIVE.md` | HLD/LLD with diagrams |
-
 ## Key Features
 
 - SSE (Server-Sent Events) for real-time streaming
